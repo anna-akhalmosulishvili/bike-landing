@@ -6,5 +6,5 @@
    - SASS
    - Flexbox
    - Grids
-3. _Preview Link:_ https://anna-akhalmosulishvili.github.io/bike-landing/#about-us
+3. _Preview Link:_ https://anna-akhalmosulishvili.github.io/bike-landing/
 4. _GitHub Link:_ https://github.com/anna-akhalmosulishvili/bike-landing
